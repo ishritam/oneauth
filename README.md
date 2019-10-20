@@ -53,7 +53,7 @@ A few terms to remember -
 | Term | Definition |
 | -----|------------|
 | auth token | A token, used in lieu of user+password credentials, to make API requests |
-| grant code | A code that can be exchanged for a auth token |
+| grant code | A code that can be exchanged for an auth token |
 | client id | Unique identifier for each client |
 | client secret| A secret key, to be used to exchange codes for tokens |
 
